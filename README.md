@@ -1,2 +1,1 @@
-# yolov5model
-Contains model for ripe and rotten fruits.
+This yolov5 model contains the detection of ripe or rotten fruits. Trained using Google Colab.
